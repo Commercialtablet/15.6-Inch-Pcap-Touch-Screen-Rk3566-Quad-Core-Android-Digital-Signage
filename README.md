@@ -48,7 +48,7 @@ This is the documentation for 15.6 Inch Pcap Touch Screen Rk3566 Quad-Core Andro
 | Adapter:          | ADAPTER, 12v, 3A                                             |
 | User manual:      | Yes                                                          |
 
-#Product pictures
+# Product pictures
 
 ![1](https://user-images.githubusercontent.com/126669652/223630649-2598a3b8-809e-46e0-8333-23fdda9a1e5a.jpg)
 
